@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @urapua
-- 👀 I’m interested in Cybersecurity and SYstems development
+- 👀 I’m interested in Cybersecurity and Systems development
 - 🌱 I’m currently learning Cybersecurity, cloud and Cloud Security
 - 💞️ I’m looking to collaborate on related projects
 - 📫 How to reach me ...
